@@ -15,7 +15,7 @@ This project visualizes the distribution of patents across U.S. Metropolitan Sta
 ---
 
 ## 🌍 Live Demos
-- 📄 [Full Report on GitHub Pages] 
+- 📄 [Full Report on GitHub Pages](https://shivakumar-hassan-lokesh.github.io/US-Patent-Distribution-Map/)
 - 📊 [Interactive Flourish Map Only](https://public.flourish.studio/visualisation/20650408/)  
 
 ---
