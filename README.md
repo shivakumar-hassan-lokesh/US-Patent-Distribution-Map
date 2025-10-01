@@ -1,5 +1,3 @@
-# US-Patent-Distribution-Map
-
 # U.S. Patent Distribution Map (2014)
 
 This project visualizes the distribution of patents across U.S. Metropolitan Statistical Areas (MSAs) for the year 2014. The visualization is presented as an interactive choropleth map created using **Flourish** and published with **GitHub Pages**.
