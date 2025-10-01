@@ -1,0 +1,375 @@
+U.S. Metropolitan and Micropolitan Areas,Number of Patents
+"San Jose, CA",14894
+"New York, NY",8406
+"San Francisco, CA",9920
+"Los Angeles, CA",6571
+"Boston, MA",5913
+"Chicago, IL",4062
+"San Diego, CA",5400
+"Seattle, WA",4850
+"Minneapolis, MN",3660
+"Detroit, MI",3073
+"Dallas, TX",3177
+"Austin, TX",2796
+"Philadelphia, PA",2654
+"Houston, TX",2972
+"Portland, OR",2129
+"Washington, DC",2285
+"Atlanta, GA",2368
+"Phoenix, AZ",1683
+"Rochester, NY",1537
+"Boise City, ID",852
+"Raleigh, NC",1555
+"Miami, FL",1463
+"Cincinnati, OH",1047
+"Denver, CO",1238
+"Cleveland, OH",979
+"Pittsburgh, PA",891
+"Albany, NY",1049
+"Baltimore, MD",841
+"St. Louis, MO",863
+"Poughkeepsie, NY",885
+"Bridgeport, CT",678
+"Boulder, CO",913
+"Milwaukee, WI",650
+"Hartford, CT",871
+"Indianapolis, IN",737
+"Kansas City, MO",872
+"Ann Arbor, MI",776
+"Sacramento, CA",595
+"Oxnard, CA",597
+"Bremerton, WA",901
+"Santa Cruz, CA",700
+"Worcester, MA",638
+"Tucson, AZ",699
+"Providence, RI",549
+"Durham, NC",637
+"Tampa, FL",695
+"Salt Lake City, UT",667
+"Burlington, VT",464
+"Columbus, OH",548
+"New Haven, CT",513
+"Riverside, CA",486
+"Rochester, MN",503
+"Fort Collins, CO",388
+"Trenton, NJ",524
+"Akron, OH",335
+"Madison, WI",483
+"Allentown, PA",394
+"Palm Bay, FL",434
+"Manchester, NH",410
+"Orlando, FL",415
+"Charlotte, NC",460
+"San Antonio, TX",497
+"Buffalo, NY",272
+"Santa Barbara, CA",438
+"Albuquerque, NM",289
+"Greenville, SC",441
+"Las Vegas, NV",429
+"Colorado Springs, CO",254
+"Provo, UT",406
+"Dayton, OH",239
+"Corvallis, OR",196
+"Peoria, IL",310
+"Memphis, TN",294
+"Reno, NV",328
+"Santa Rosa, CA",281
+"Greeley, CO",266
+"Richmond, VA",253
+"Lexington, KY",217
+"Des Moines, IA",223
+"Nashville, TN",252
+"Knoxville, TN",257
+"Syracuse, NY",190
+"Grand Rapids, MI",193
+"Louisville/Jefferson County, KY",268
+"Binghamton, NY",110
+"Holland, MI",198
+"Huntsville, AL",215
+"Toledo, OH",178
+"Virginia Beach, VA",171
+"Oklahoma City, OK",142
+"Appleton, WI",137
+"Cedar Rapids, IA",225
+"Jacksonville, FL",210
+"Canton, OH",132
+"Tulsa, OK",163
+"Norwich, CT",121
+"Fort Wayne, IN",123
+"Greensboro, NC",142
+"Ogden, UT",155
+"Springfield, MA",138
+"Harrisburg, PA",130
+"North Port, FL",145
+"Oshkosh, WI",114
+"New Orleans, LA",146
+"Portland, ME",164
+"Gainesville, FL",160
+"Lancaster, PA",122
+"Omaha, NE",215
+"Champaign, IL",187
+"Wichita, KS",139
+"Ithaca, NY",120
+"Lafayette, IN",187
+"Rockford, IL",133
+"Flint, MI",116
+"Winston, NC",138
+"Kalamazoo, MI",104
+"York, PA",118
+"Birmingham, AL",109
+"Baton Rouge, LA",92
+"South Bend, IN",125
+"Racine, WI",106
+"Kingsport, TN",81
+"Port St. Lucie, FL",122
+"Lansing, MI",71
+"Erie, PA",86
+"Spokane, WA",105
+"San Luis Obispo, CA",106
+"Hickory, NC",109
+"Kingston, NY",82
+"Reading, PA",66
+"Charlottesville, VA",103
+"Columbia, SC",91
+"Niles, MI",133
+"Eugene, OR",87
+"Evansville, IN",92
+"Davenport, IA",73
+"Kennewick, WA",82
+"Charleston, SC",95
+"Ames, IA",78
+"Blacksburg, VA",95
+"Spartanburg, SC",59
+"Salinas, CA",90
+"Honolulu, HI",93
+"State College, PA",94
+"Lincoln, NE",77
+"Bakersfield, CA",56
+"Iowa City, IA",90
+"Elmira, NY",81
+"Bloomington, IN",131
+"Youngstown, OH",52
+"Scranton, PA",49
+"Roanoke, VA",95
+"Stockton, CA",84
+"Naples, FL",88
+"Asheville, NC",71
+"Logan, UT",78
+"Deltona, FL",76
+"Columbus, IN",96
+"Lafayette, LA",74
+"Kokomo, IN",34
+"College Station, TX",61
+"Little Rock, AR",56
+"Tallahassee, FL",65
+"Vallejo, CA",56
+"Cape Coral, FL",65
+"Fargo, ND",107
+"Saginaw, MI",64
+"Wilmington, NC",81
+"Fresno, CA",78
+"Augusta, GA",56
+"Chattanooga, TN",57
+"Idaho Falls, ID",46
+"Elkhart, IN",54
+"Bend, OR",63
+"Fayetteville, AR",66
+"Barnstable Town, MA",53
+"Sheboygan, WI",60
+"Monroe, MI",63
+"Bellingham, WA",44
+"Athens, GA",51
+"Salem, OR",46
+"Santa Fe, NM",40
+"Pensacola, FL",48
+"Green Bay, WI",28
+"Modesto, CA",51
+"Flagstaff, AZ",68
+"El Paso, TX",38
+"Olympia, WA",40
+"Eau Claire, WI",38
+"Waterloo, IA",28
+"Lakeland, FL",34
+"Lynchburg, VA",42
+"Columbia, MO",58
+"Charleston, WV",33
+"Sioux City, IA",15
+"Florence, SC",33
+"Springfield, MO",23
+"Napa, CA",39
+"Janesville, WI",39
+"Bloomington, IL",57
+"Anderson, SC",41
+"Lawrence, KS",62
+"Jackson, MS",28
+"Dubuque, IA",63
+"Jackson, MI",25
+"Anchorage, AK",33
+"Sioux Falls, SD",54
+"Johnson City, TN",27
+"Fond du Lac, WI",23
+"Ocala, FL",43
+"Lubbock, TX",31
+"Pittsfield, MA",27
+"Anderson, IN",46
+"Springfield, IL",39
+"Utica, NY",15
+"Joplin, MO",29
+"Auburn, AL",30
+"Mankato, MN",49
+"Corpus Christi, TX",20
+"Panama City, FL",13
+"Gainesville, GA",27
+"Beaumont, TX",29
+"Jackson, TN",11
+"Shreveport, LA",26
+"Battle Creek, MI",27
+"Prescott, AZ",35
+"Bay City, MI",21
+"Medford, OR",43
+"Parkersburg, WV",17
+"Mobile, AL",17
+"Savannah, GA",30
+"Houma, LA",28
+"Duluth, MN",22
+"La Crosse, WI",17
+"Morgantown, WV",35
+"Manhattan, KS",35
+"Longview, TX",26
+"Glens Falls, NY",21
+"Muskegon, MI",16
+"Greenville, NC",25
+"Tyler, TX",30
+"Midland, TX",36
+"Williamsport, PA",9
+"Decatur, IL",20
+"Sebastian, FL",29
+"Sherman, TX",9
+"Coeur d'Alene, ID",32
+"San Juan, PR",29
+"Burlington, NC",18
+"Punta Gorda, FL",17
+"Hagerstown, MD",22
+"St. Cloud, MN",16
+"Gulfport, MS",17
+"Macon, GA",26
+"Atlantic City, NJ",12
+"Crestview, FL",9
+"Montgomery, AL",19
+"Killeen, TX",11
+"Myrtle Beach, SC",18
+"St. George, UT",27
+"Amarillo, TX",15
+"Wausau, WI",14
+"Grand Junction, CO",21
+"Springfield, OH",22
+"Lebanon, PA",14
+"Chico, CA",18
+"Redding, CA",15
+"Winchester, VA",25
+"Waco, TX",12
+"Las Cruces, NM",13
+"Morristown, TN",10
+"Grand Forks, ND",18
+"Kankakee, IL",13
+"Missoula, MT",12
+"Huntington, WV",8
+"Bangor, ME",15
+"Visalia, CA",15
+"Mount Vernon, WA",14
+"Odessa, TX",13
+"Decatur, AL",7
+"Tuscaloosa, AL",28
+"Bowling Green, KY",9
+"Yakima, WA",2
+"Fayetteville, NC",15
+"Lake Charles, LA",5
+"Michigan City, IN",10
+"Fort Smith, AR",21
+"Columbus, GA",12
+"Topeka, KS",12
+"Pueblo, CO",15
+"St. Joseph, MO",14
+"Dalton, GA",8
+"Terre Haute, IN",5
+"Dover, DE",11
+"Billings, MT",6
+"Longview, WA",8
+"Clarksville, TN",6
+"Mansfield, OH",9
+"Monroe, LA",15
+"Johnstown, PA",9
+"Rapid City, SD",8
+"Sandusky, OH",13
+"Cleveland, TN",8
+"Wichita Falls, TX",8
+"Bismarck, ND",5
+"Wheeling, WV",5
+"Lake Havasu City, AZ",6
+"Palm Coast, FL",3
+"Madera, CA",10
+"Elizabethtown, KY",9
+"Owensboro, KY",12
+"McAllen, TX",16
+"Salisbury, MD",7
+"Carson City, NV",11
+"Jonesboro, AR",10
+"Florence, AL",5
+"Hattiesburg, MS",8
+"Muncie, IN",7
+"Altoona, PA",10
+"Yuba City, CA",6
+"Albany, GA",12
+"Farmington, NM",13
+"Harrisonburg, VA",12
+"Merced, CA",6
+"Rocky Mount, NC",8
+"Cheyenne, WY",11
+"Brownsville, TX",11
+"Pocatello, ID",4
+"Vineland, NJ",1
+"Pascagoula, MS",6
+"Alexandria, LA",7
+"Rome, GA",9
+"Hot Springs, AR",5
+"Cape Girardeau, MO",9
+"Wenatchee, WA",4
+"Steubenville, OH",2
+"Anniston, AL",1
+"Lewiston, ME",1
+"Brunswick, GA",6
+"Jefferson City, MO",9
+"Yuma, AZ",5
+"Texarkana, TX",5
+"Abilene, TX",8
+"Ocean City, NJ",3
+"Dothan, AL",3
+"Warner Robins, GA",4
+"Danville, IL",6
+"Lima, OH",2
+"Sumter, SC",6
+"Victoria, TX",4
+"Gadsden, AL",5
+"Valdosta, GA",2
+"Jacksonville, NC",3
+"Cumberland, MD",6
+"Fairbanks, AK",5
+"Aguadilla, PR",4
+"Danville, VA",4
+"Great Falls, MT",3
+"Casper, WY",4
+"Mayagüez, PR",0
+"Hanford, CA",0
+"San Angelo, TX",6
+"El Centro, CA",4
+"Goldsboro, NC",2
+"Lawton, OK",5
+"Lewiston, ID",3
+"Laredo, TX",3
+"Pine Bluff, AR",0
+"Hinesville, GA",1
+"Ponce, PR",0
+"San Germán, PR",2
+"Guayama, PR",1
+"Yauco, PR",0
+"Fajardo, PR",0
