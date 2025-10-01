@@ -1,6 +1,9 @@
 # U.S. Patent Distribution Map (2014)
 
-This project visualizes the distribution of patents across U.S. Metropolitan Statistical Areas (MSAs) for the year 2014. The visualization is presented as an interactive choropleth map created using **Flourish** and published with **GitHub Pages**.
+This project presents an analysis of U.S. patent activity in 2014, mapped across Metropolitan Statistical Areas (MSAs).  
+The interactive choropleth highlights where innovation is most concentrated, revealing major technology hubs like Silicon Valley, Boston, and New York, alongside regions with relatively low patent generation.  
+By combining geographic visualization with patent data, the project offers a clear view of the uneven distribution of innovation across the country.
+
 
 
 ## Project Overview
