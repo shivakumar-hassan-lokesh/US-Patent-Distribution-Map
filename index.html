@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assignment 03 - Patent Distribution Analysis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 40px;
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #fff;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        .subtitle {
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+        .student-info {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .visualization-container {
+            width: 100%;
+            height: 600px;
+            margin: 30px 0;
+        }
+        .report-content {
+            background-color: #f9f9f9;
+            padding: 25px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .patent-range {
+            background-color: #eef2f5;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 15px 0;
+            text-align: center;
+        }
+        .dataset-link {
+            margin-top: 30px;
+            text-align: center;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="title">Assignment – 03</div>
+        <div class="subtitle">Assignment Report: Analyzing and Visualizing the Regional<br>Distribution of Patents through a Choropleth Map</div>
+        <div class="subtitle">Course: IE6600 Computation and Visualization</div>
+        <div class="subtitle">Fall Semester 2024</div>
+        
+        <div class="student-info">
+            <p><strong>NAME:</strong> SHIVAKUMAR HASSAN LOKESH<br>
+            002058166</p>
+        </div>
+    </div>
+
+    <div class="title" style="text-align: center;">Patents Distribution Across U.S. Metropolitan Areas (2014)</div>
+    
+    <div class="patent-range">
+        Patent Min-Max: 1 - 4437.21 - 14,894
+    </div>
+
+    <div class="visualization-container">
+        <iframe src="https://public.flourish.studio/visualisation/20650408/embed" 
+                frameborder="0" 
+                scrolling="no" 
+                style="width:100%; height:100%;">
+        </iframe>
+    </div>
+
+    <div class="report-content">
+        <p>A choropleth map was created using data on U.S. patent distribution across metropolitan areas in 2014, highlighting the spread of all classes' technological innovation throughout the country. The dataset has patent information from a total of 363 metropolitan areas across the United States. The total of 137,690 patents granted in the year 2014.</p>
+
+        <p>The choropleth map shows that innovation is heavily focused in a few key areas, called tech hubs. These include Silicon Valley cities like San Francisco, San Jose, and Los Angeles, as well as financial and innovation centers like New York and Boston. Together, these top five regions produced 33% of all patents in 2014, while 22 other regions had fewer than 10 patents each, and only 25% of regions have more than 175 patents, showing most areas contribute little to the overall total. This difference shows the presence of technology industries, many research institutes with top universities, Stanford, MIT, Harvard, Columbia, and the University of California, where a lot of technical research happens, skilled students and workers, and this contributes to proper investments and funding from the government and many industry investors, along with many start-ups in these regions. On the other hand, regions with low patents may lack these factors, or they have focused on other industries that are not focused on or relied on technology much.</p>
+
+        <p>This uneven regional distribution shows the importance of regional initiatives that promote innovation, such as investing in research facilities and promoting start-ups in less patent areas. It also focuses on the greater economic differences between areas and the need to close those differences in order to create more balanced economic growth throughout the country.</p>
+    </div>
+
+    <div class="dataset-link">
+        <p><strong>Link for Dataset:</strong> <a href="https://www.uspto.gov/web/offices/ac/ido/oeip/taf/cls_cbsa/allcbsa_gd.htm" target="_blank">https://www.uspto.gov/web/offices/ac/ido/oeip/taf/cls_cbsa/allcbsa_gd.htm</a></p>
+    </div>
+</body>
+</html>
